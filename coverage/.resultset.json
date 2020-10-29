@@ -1,0 +1,53 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/menzel3/homework-se3/mybot/lita-doubler/lib/lita-doubler.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/menzel3/homework-se3/mybot/lita-doubler/lib/lita/handlers/doubler.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1603270388
+  }
+}
